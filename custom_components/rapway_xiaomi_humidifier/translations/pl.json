@@ -1,0 +1,22 @@
+{
+  "title": "Xiaomi Smart Humidifier",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Połącz Xiaomi Smart Humidifier",
+        "description": "Lokalne połączenie przez adres IP urządzenia i 32-znakowy token MiIO.",
+        "data": {
+          "host": "Adres IP",
+          "token": "Token MiIO"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Nie można połączyć się z nawilżaczem. Sprawdź IP, token i dostęp w sieci lokalnej.",
+      "invalid_token": "Token musi mieć dokładnie 32 znaki szesnastkowe."
+    },
+    "abort": {
+      "already_configured": "Ten nawilżacz jest już skonfigurowany."
+    }
+  }
+}

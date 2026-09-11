@@ -1,0 +1,22 @@
+{
+  "title": "Xiaomi Smart Humidifier",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect Xiaomi Smart Humidifier",
+        "description": "Local connection using the device IP address and 32-character MiIO token.",
+        "data": {
+          "host": "IP address",
+          "token": "MiIO token"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot communicate with the humidifier. Check IP, token and local network access.",
+      "invalid_token": "Token must contain exactly 32 hexadecimal characters."
+    },
+    "abort": {
+      "already_configured": "This humidifier is already configured."
+    }
+  }
+}
