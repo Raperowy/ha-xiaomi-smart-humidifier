@@ -9,7 +9,7 @@ A fully local Home Assistant integration for **Xiaomi Smart Humidifier 2 / Xiaom
 **No Xiaomi Cloud is required for normal operation.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raperowy/ha-xiaomi-smart-humidifier/main/assets/banner.png" alt="Xiaomi Smart Humidifier 2 local Home Assistant integration">
+  ![Xiaomi Smart Humidifier 2 local Home Assistant integration](https://raw.githubusercontent.com/Raperowy/ha-xiaomi-smart-humidifier/main/assets/banner.png)
 </p>
 
 ## Supported devices
