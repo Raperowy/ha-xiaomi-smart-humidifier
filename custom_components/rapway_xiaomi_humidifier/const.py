@@ -9,6 +9,6 @@ CONF_TOKEN = "token"
 MODEL = "deerma.humidifier.jsq2w"
 DEFAULT_NAME = "Xiaomi Smart Humidifier 2"
 
-PLATFORMS = ["fan", "sensor", "binary_sensor", "switch", "number"]
+PLATFORMS = ["humidifier", "sensor", "binary_sensor", "switch"]
 
 UPDATE_INTERVAL_SECONDS = 30
