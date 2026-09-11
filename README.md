@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="custom_components/rapway_xiaomi_humidifier/brand/logo.png" width="150" alt="Xiaomi Smart Humidifier logo">
+  <img src="https://raw.githubusercontent.com/Raperowy/ha-xiaomi-smart-humidifier/main/assets/logo.png" width="150" alt="Xiaomi Smart Humidifier logo">
 </p>
 
 # Xiaomi Smart Humidifier for Home Assistant
@@ -9,7 +9,7 @@ A fully local Home Assistant integration for **Xiaomi Smart Humidifier 2 / Xiaom
 **No Xiaomi Cloud is required for normal operation.**
 
 <p align="center">
-  <img src="assets/banner.png" alt="Xiaomi Smart Humidifier 2 local Home Assistant integration">
+  <img src="https://raw.githubusercontent.com/Raperowy/ha-xiaomi-smart-humidifier/main/assets/banner.png" alt="Xiaomi Smart Humidifier 2 local Home Assistant integration">
 </p>
 
 ## Supported devices
